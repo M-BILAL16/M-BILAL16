@@ -78,10 +78,9 @@ Curious about what I’ve built? Dive into my interactive portfolio where code m
 
 I’m always open to exciting freelance projects, collaborations, or just tech talk!
 
-📧 **Email:** [Your Email]  
+📧 **Email:** [bilal16.work@gmail.com] 
 🌐 **Website:** [http://bilal.visulaportfolio.com/](http://bilal.visulaportfolio.com/)  
-💼 **LinkedIn:** [Your LinkedIn URL]  
-🐦 **Twitter:** [Your Twitter Handle if any]
+💼 **LinkedIn:** [[Your LinkedIn URL]](https://www.linkedin.com/in/m-bilal16/) 
 
 ---
 
