@@ -80,7 +80,7 @@ I’m always open to exciting freelance projects, collaborations, or just tech t
 
 📧 **Email:** [bilal16.work@gmail.com] 
 🌐 **Website:** [http://bilal.visulaportfolio.com/](http://bilal.visulaportfolio.com/)  
-💼 **LinkedIn:** [[Your LinkedIn URL]](https://www.linkedin.com/in/m-bilal16/) 
+💼 **LinkedIn:** [https://www.linkedin.com/in/m-bilal16/](https://www.linkedin.com/in/m-bilal16/) 
 
 ---
 
