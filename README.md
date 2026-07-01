@@ -70,8 +70,6 @@ Created a conversational booking assistant with smart scheduling, time zone supp
 
 Curious about what I’ve built? Dive into my interactive portfolio where code meets creativity. From AI-powered platforms to sleek web apps, it’s all there — polished, purposeful, and performance-driven.
 
-🔎 **Check it out:** [bilal.visulaportfolio.com](http://bilal.visulaportfolio.com/)  
-
 ---
 
 ## 📫 Let’s Connect
@@ -79,8 +77,6 @@ Curious about what I’ve built? Dive into my interactive portfolio where code m
 I’m always open to exciting freelance projects, collaborations, or just tech talk!
 
 📧 **Email:** [bilal16.work@gmail.com] 
-🌐 **Website:** [http://bilal.visulaportfolio.com/](http://bilal.visulaportfolio.com/)  
-💼 **LinkedIn:** [https://www.linkedin.com/in/m-bilal16/](https://www.linkedin.com/in/m-bilal16/) 
 
 ---
 
